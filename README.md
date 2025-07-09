@@ -8,7 +8,7 @@ Designed to run smoothly on low-end devices, BasicOS delivers a clean experience
 ## 🖼️ Logo
 
 <p align="center">
-  <img src="assets/basicoslogo.png" alt="BasicOS Logo" width="300"/>
+  <img src="basicoslogo.png" alt="BasicOS Logo" width="300"/>
 </p>
 
 ---
