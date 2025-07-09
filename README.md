@@ -17,8 +17,8 @@ Designed to run smoothly on low-end devices, BasicOS delivers a clean experience
 
 - ⚡ Smooth and responsive interface
 - 🔋 Battery-friendly, low memory usage
-- 🔓 Root access (via SuperSU)
-- 🎵 Custom sound pack (notification, ringtone, alarm)
+- 🔓 Comes with root access (via SuperSU or Magisk)
+- 🎵 One UI sound pack (notification, ringtone, alarm)
 - 🖋️ OneUI-inspired fonts and emojis
 - 🎞️ Custom boot animation
 - 🧠 System tweaks for speed and stability
