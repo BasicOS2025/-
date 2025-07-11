@@ -1,14 +1,14 @@
 # BasicOS Custom ROMs
 
 **BasicOS** is a lightweight, minimal, and fast custom Android OS built for simplicity and performance.  
-Designed to run smoothly on low-end devices, BasicOS delivers a clean experience without bloat.
+Designed to run smoothly on low-end devices, BasicOS delivers a clean experience without bloatware.
 
 ---
 
 ## 🖼️ Logo
 
 <p align="center">
-  <img src="BasicOSLogo.png" alt="BasicOS Logo" width="300"/>
+  <img src="BasicOSLogo.png" alt="BasicOS Logo" width="275"/>
 </p>
 
 ---
